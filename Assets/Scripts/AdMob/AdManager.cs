@@ -13,8 +13,8 @@ public class AdManager : MonoBehaviour
     private RewardedAd rewardedAd;
 
 #if UNITY_ANDROID
-    private string interstitialAdId = "ca-app-pub-3940256099942544/1033173712";
-    private string rewardedAdId = "ca-app-pub-3940256099942544/5224354917";
+    private string interstitialAdId = "ca-app-pub-7844558573816016/4456931359";
+    private string rewardedAdId = "ca-app-pub-7844558573816016/7286049335";
 #elif UNITY_IPHONE
     private string interstitialAdId = "ca-app-pub-3940256099942544/4411468910";
     private string rewardedAdId = "ca-app-pub-3940256099942544/1712485313";
